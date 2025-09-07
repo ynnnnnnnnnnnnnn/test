@@ -1,6 +1,6 @@
 streamlit
-torch
-torchvision
-ultralytics
-opencv-python-headless
+torch==2.2.2
+torchvision==0.17.2
+ultralytics==8.2.0
+opencv-python-headless==4.10.0.84
 Pillow
